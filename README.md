@@ -1,24 +1,27 @@
-# processamento_imagem
+# 🖼️ processamento_imagem  
 
-## Descrição
-O pacote `processamento_imagem` é utilizado para diversas operações de processamento e manipulação de imagens.  
+## 📌 Descrição  
+O `processamento_imagem` é um pacote poderoso para processamento e manipulação de imagens.  
+Ele oferece funcionalidades essenciais para análise e transformação de imagens de forma simples e eficiente.  
 
-### Funcionalidades:
+### ✨ Funcionalidades  
 
-#### **Processamento:**
-- Correspondência de histograma  
-- Similaridade estrutural  
-- Redimensionamento de imagem  
+#### 🎛️ **Processamento:**  
+✅ Correspondência de histograma  
+✅ Similaridade estrutural  
+✅ Redimensionamento de imagem  
 
-#### **Utilitários:**
-- Ler imagem  
-- Salvar imagem  
-- Planar imagem  
-- Plotar resultado  
-- Plotar histograma  
+#### 🛠️ **Utilitários:**  
+📂 Ler imagem  
+💾 Salvar imagem  
+📏 Planar imagem  
+📊 Plotar resultado  
+📉 Plotar histograma  
 
-## Instalação
-Para instalar o pacote, utilize o gerenciador de pacotes `pip`:
+---
+
+## 📥 Instalação  
+Você pode instalar o pacote usando o `pip`:  
 
 ```sh
 pip install processamento_imagem
